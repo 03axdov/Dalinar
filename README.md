@@ -1,6 +1,8 @@
 <h1><a href="https://dalinar.net" target="_blank">Dalinar</a></a></h1>
 
 > A Machine Learning website for data labeling and model creation. Currently in development using Python Django and Javascript React.
+> Video: https://www.youtube.com/watch?v=tQ2lUxumQV4&t=13s
+
 <h2>No-code Model Creation</h2>
 Dalinar provides a visual interface for building and training machine learning models (computer vision or text processing).
 <br></br>
